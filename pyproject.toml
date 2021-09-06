@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "polymatheia-tools"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package that provides useful scripts for working with data loaded using the Polymatheia library."
 authors = ["Andreas Lüschow <lueschow@sub.uni-goettingen.de>"]
 license = "MIT License"
