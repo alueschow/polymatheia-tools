@@ -17,3 +17,6 @@ A Python package that provides useful scripts for working with data loaded using
 
 ## Example usage
 Run ```python3 ./src/example_scripts.py``` to see some example scripts.
+
+## Caveats
+The subpackage `polymatheia_tools.download` is still under development and may not work as expected.
